@@ -1,5 +1,10 @@
 # Full Stack Google Drive Clone with Next.js 15
 
+<div align="center">
+     <!-- link to local image -->
+        <img src="https://picsum.photos/500/300" alt="" height="100%"/>
+</div>
+
 <div align="center" >
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
@@ -23,14 +28,9 @@
 
 <br>
 
-<div align="center">
-     <!-- link to local image -->
-        <img src="https://picsum.photos/500/300" alt="" height="100%"/>
-</div>
-
 <br>
 
-## Technologies Used:
+## Technologies Used::
 
 Using a combination of modern web development technologies, the Store-It App can be built to replicate the functionality and aesthetic of Google's search platform. HTML and CSS form the foundation for structuring and styling the application, while Tailwind CSS provides utility-first styling to streamline the design process. JavaScript powers dynamic features, with TypeScript ensuring robust type safety and reducing errors in the codebase. The app's backend can be developed using Node.js for scalable server-side logic, while Appwrite serves as the backend-as-a-service for handling authentication, databases, and file storage. Next.js 15 offers an efficient framework for building a React-based front-end, complete with server-side rendering and optimized performance. The UI is enhanced using Shadcn/ui for reusable component libraries, and Chart.js adds data visualization capabilities. Together, these technologies enable the creation of a responsive, feature-rich, and visually appealing Google Clone App.
 
@@ -84,5 +84,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-
