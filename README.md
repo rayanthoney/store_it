@@ -42,7 +42,18 @@ Using a combination of modern web development technologies, the Store-It App can
   </a>  
 </p>
 <p>
-HTML, CSS, JavaScript, NodeJS, Next.js15, Tailwind, TypeScript, Appwrite, Shadcn/ui, Chart.js
+
+- HTML 
+- CSS 
+- JavaScript 
+- NodeJS 
+- Next.js15 
+- Tailwind 
+- TypeScript 
+- Appwrite 
+- Shadcn/ui 
+- Chart.js
+
 </p>
 
 <br>
