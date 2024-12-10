@@ -43,6 +43,8 @@ Using a combination of modern web development technologies, the Store-It App can
 </p>
 <p>
 
+<br />
+
 - HTML 
 - CSS 
 - JavaScript 
