@@ -2,7 +2,7 @@
 
 <div align="center">
      <!-- link to local image -->
-        <img src="https://picsum.photos/500/300" alt="" height="100%"/>
+        <img src="public/assets/images/sign-up.png" alt="" height="100%"/>
 </div>
 
 <div align="center" >
