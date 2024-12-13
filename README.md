@@ -28,6 +28,21 @@
 
 <br>
 
+<div align="center">
+    <img  src="public/assets/images/jsMastery.png" width="64">
+</div>
+<br>
+
+- [Build and Deploy a Full Stack Google Drive Clone with Next.js 15](https://youtu.be/_W3R2VwRyF4?si=GHAh9hre288av2Zw)
+  - [GitHub Code (give it a star ⭐) :](https://github.com/adrianhajdin/storage_management_solution)
+  - [README (assets & code): ](https://github.com/adrianhajdin/storage_management_solution/blob/main/README.md)
+
+<br>
+
+
+
+<br>
+
 <br>
 
 ## Technologies Used::
