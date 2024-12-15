@@ -18,10 +18,10 @@
 
 <p>
 <a href="https://github.com/adrianhajdin/storage_management_solution" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&zfor-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=zfor-the-badge&logo=github"/>
 </a>
 <a href="-URL DEMO GOES HERE-" target="_blank">
-<img src="https://img.shields.io/badge/-Website-green?style=plastic&zfor-the-badge&color=e8970c"/>
+<img src="https://img.shields.io/badge/-Website-green?style=zfor-the-badge&color=e8970c"/>
 </a>
 </p>
 </div>
