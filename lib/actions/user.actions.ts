@@ -2,7 +2,6 @@
 
 import { createAdminClient } from "@/lib/appwrite/config";
 import { appwriteConfig } from "@/lib/appwrite/config";
-import clsx from "clsx";
 import { ID, Query } from "node-appwrite";
 
 const getUserByEmail = async (email: string) => {
