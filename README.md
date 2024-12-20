@@ -38,11 +38,7 @@
   - [README (assets & code): ](https://github.com/adrianhajdin/storage_management_solution/blob/main/README.md)
 
 <br>
-
-
-
 <br>
-
 <br>
 
 ## Technologies Used::
