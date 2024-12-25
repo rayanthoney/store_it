@@ -12,7 +12,7 @@
         <img src="client/public/refine.png" alt="" height="100%"/>
     </a>
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+<!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
 <br>
 <br>
 
