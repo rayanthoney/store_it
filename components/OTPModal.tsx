@@ -17,12 +17,12 @@ import {
   InputOTPSlot,
 } from "@/components/ui/input-otp";
 
-import React from "react";
+import React, { useState } from "react";
 
 const OtpModal = () => {
   const [isOpen, setIsOpen] = useState(true);
   const [password, setPassword] = useState("");
-  const [isLoading, setIsLoading] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
 
   return (
     <AlertDialog>
