@@ -20,6 +20,10 @@ import {
 import React from "react";
 
 const OtpModal = () => {
+  const [isOpen, setIsOpen] = useState(true);
+  const [password, setPassword] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
+
   return (
     <AlertDialog>
       <AlertDialogTrigger>Open</AlertDialogTrigger>
