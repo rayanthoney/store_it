@@ -24,6 +24,23 @@ const OtpModal = () => {
   const [password, setPassword] = useState("");
   const [isLoading, setIsLoading] = useState(true);
 
+  const handleSubmit = async (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    setIsLoading(true);
+
+    try {
+      // Call your API to verify the OTP
+    } catch (error) {
+      // Handle error
+      console.log(error);
+    }
+    setIsLoading(false);
+  };
+
+  const handleResendOtp = async () => {
+    // Call your API to resend the OTP
+  };
+
   return (
     <AlertDialog>
       <AlertDialogTrigger>Open</AlertDialogTrigger>
